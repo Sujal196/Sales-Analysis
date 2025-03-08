@@ -1,8 +1,7 @@
 # Sales-Analysis
 This is a Diwali Sales Analysis with python based project.
 <br>
-<br>
-Project Learning:
+Performed various operation: 
 <br>
 1.Performed data cleaning and manipulation operation.
 <br>
