@@ -1,7 +1,9 @@
 # Sales-Analysis
 This is a Diwali Sales Analysis with python based project.
 <br>
+<br>
 Project Learning:
+<br>
 1.Performed data cleaning and manipulation operation.
 <br>
 2.Performed exploratory data analysis (EDA) by using pandas,numpy,seaborn and matplotlib libraries.
