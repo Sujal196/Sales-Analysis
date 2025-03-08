@@ -1,6 +1,5 @@
 # Sales-Analysis
-This is a Diwali Sales Analysis with python based project.The aim of project is to analyze sales data to find pattern,trends and provide business insights for better decision making.
-<br>
+This is a Diwali Sales Analysis with python based project. The aim of project is to analyze sales data to find pattern,trends and provide business insights for better decision making.
 <br>
 Performed various operation: 
 <br>
